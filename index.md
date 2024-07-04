@@ -9,3 +9,5 @@ $ df = sns.load_dataset('titanic')
 Loading the titanic dataset using seaborn library and storing it in a dataframe df
 
 ```
+- [x] Learn using headers on github.
+- [x] Start using github.
