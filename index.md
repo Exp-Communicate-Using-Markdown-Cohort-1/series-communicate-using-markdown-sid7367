@@ -10,3 +10,4 @@ Loading the titanic dataset using seaborn library and storing it in a dataframe 
 
 ```
 
+- [x] Using headers as markdown in github
